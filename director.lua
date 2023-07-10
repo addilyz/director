@@ -2,7 +2,7 @@
 director = {}
 director.__index = director
 
---[[	director
+--[[	director by addilyz
 	init functions:
 		variable = director.start(font, rootdir, target, x, y, w, h)
 	closing functions:
